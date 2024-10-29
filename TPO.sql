@@ -14,7 +14,7 @@ fechaHora DATETIME,
 
 create table pelicula(
 idPelicula INT PRIMARY KEY,
-
+titulo VARCHAR(50),
 );
 
 create table entrada(
